@@ -1,2 +1,2 @@
 # hello-world
-Hello World Github Tutorial
+Hello World Python Tutorial
